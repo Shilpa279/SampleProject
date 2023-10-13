@@ -10,8 +10,7 @@
 - Shopping cart functionality
 - Product Filtering functionality
 - Product page
-- Cart and checkout page
-- Contact page
+- Cart page
 - Login and Register page
 - Awesome modern minimalist UI
 
